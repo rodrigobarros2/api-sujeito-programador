@@ -1,4 +1,0 @@
-camada em que a rota chama// a rota chama o nosso controler // passa lá se tem algum parametro se tem o nome e-mail
-
-
-o controle recebe isso ai faz alguma validação, e chama o nosso serviço e o serviço vai no banco de dados faz o cadastro lá etc
