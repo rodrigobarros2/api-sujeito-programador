@@ -27,7 +27,7 @@ class DeleteCustomersService {
       },
     });
 
-    return { message: 'Deletado com sucesso!@' };
+    return { message: 'Deletado com sucesso!' };
   }
 }
 
